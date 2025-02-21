@@ -55,4 +55,10 @@ work/*
 *fa
 *.bed
 *.gz
-
+*00_run_pipeline*
+*.js
+*.css
+*.bam
+*.bai
+*star_salmon
+*.bigWig

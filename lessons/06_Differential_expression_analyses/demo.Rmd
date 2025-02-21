@@ -20,7 +20,6 @@ library(magrittr)
 library(pheatmap)
 library(textshape)
 library(Rcpp)
-library(DESeq2)
 library(matrixStats)
 ```
 
